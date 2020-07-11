@@ -1,11 +1,14 @@
-### Hi there 👋
+## Hello, I'm Jennie 👋🏻
+
+I'm a hybrid design engineer who loves elegant user interfaces, intuitive user experiences, and beautifully crafted code. I enjoy building scalable design systems while helping designers and engineers work better together. 
+
+👩🏻‍💻 I'm currently helping lead the design system team at Atlassian and the evolution of [Atlassian Design System](https://atlassian.design).
+
+I loveee talking about design systems, please say hello [@jenniesyip](https://www.twitter.com/jenniesyip)~
+
+
 
 <!--
-**jenniesyip/jenniesyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
